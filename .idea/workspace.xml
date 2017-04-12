@@ -11,7 +11,17 @@
     <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65a78c16-6368-4a73-89f9-981fcf5abe96" name="Default" comment="" />
+    <list default="true" id="65a78c16-6368-4a73-89f9-981fcf5abe96" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/MainActivity.java" />
+    </list>
     <ignored path="SensorDemo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,14 +53,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="280" column="67" selection-start-line="280" selection-start-column="67" selection-end-line="280" selection-end-column="67" />
+            <state relative-caret-position="310">
+              <caret line="89" column="47" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="class#6322:9126" expanded="true" />
+                <element signature="e#5860#6263#0" expanded="true" />
+                <element signature="e#6262#6263#0" expanded="true" />
+                <element signature="class#6528:9332" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,14 +88,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider editor-type-id="android-manifest">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="51" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="51" />
+            <state relative-caret-position="170">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/FileUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -1895,8 +1917,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/Gyroscope2Activity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/FileUtils.java" />
         <option value="$PROJECT_DIR$/app/.gitignore" />
-        <option value="$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/MainActivity.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2050,6 +2072,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../13_easypermission/GetSensorData-master" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="device.picker.selection" value="CQ9TUWUCTGUOYP9H" />
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-redmi_note_4-CQ9TUWUCTGUOYP9H" />
+    <property name="DEBUGGABLE_PROCESS" value="table.colorchen.com.sensordemo" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="DEBUGGER_ID" value="Auto" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -2405,7 +2431,7 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991276" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2433,7 +2459,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="02" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/FileUtils.java</url>
+          <line>20</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/FileUtils.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/FileUtils.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/MainActivity.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -2443,7 +2496,9 @@
           <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2454,7 +2509,9 @@
           <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2503,6 +2560,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -2515,7 +2573,9 @@
           <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2524,6 +2584,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
           <caret line="74" column="42" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -2536,7 +2597,9 @@
           <caret line="102" column="34" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2545,6 +2608,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1785">
           <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -2565,7 +2629,9 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2576,7 +2642,9 @@
           <caret line="233" column="0" selection-start-line="233" selection-start-column="0" selection-end-line="233" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2594,7 +2662,9 @@
           <caret line="187" column="78" selection-start-line="187" selection-start-column="78" selection-end-line="187" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2605,7 +2675,9 @@
           <caret line="187" column="78" selection-start-line="187" selection-start-column="78" selection-end-line="187" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2616,7 +2688,9 @@
           <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2628,7 +2702,9 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2749,14 +2825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/gyroscope2_activity.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -2800,6 +2868,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -2818,17 +2887,6 @@
             <element signature="e#2790#2791#0" expanded="false" />
             <element signature="e#2958#2959#0" expanded="false" />
             <element signature="e#3008#3009#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="280" column="67" selection-start-line="280" selection-start-column="67" selection-end-line="280" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#6322:9126" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2854,9 +2912,30 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="51" />
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/table/colorchen/com/sensordemo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="89" column="47" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5860#6263#0" expanded="true" />
+            <element signature="e#6262#6263#0" expanded="true" />
+            <element signature="class#6528:9332" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

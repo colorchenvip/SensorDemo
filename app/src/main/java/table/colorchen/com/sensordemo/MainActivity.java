@@ -81,9 +81,11 @@ public class MainActivity extends AppCompatActivity
                 if (isSaveFile) {
                     isSaveFile = false;
                     save.setText("确定");
+                    editTextFile.setEnabled(true);
                 } else {
                     isSaveFile = true;
                     save.setText("修改");
+                    editTextFile.setEnabled(false);
                 }
                 editTextFile.setText(fileName);
             }
@@ -99,9 +101,11 @@ public class MainActivity extends AppCompatActivity
                 if (isSaveTime) {
                     isSaveTime = false;
                     savSettingTimee.setText("确定");
+                    editTextTime.setEnabled(true);
                 } else {
                     isSaveTime = true;
                     savSettingTimee.setText("修改");
+                    editTextTime.setEnabled(false);
                 }
                 editTextTime.setText(settingTimeNum + "");
 
