@@ -24,7 +24,7 @@
             android:id="@+id/contentData"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hello World!"
+            android:text="点击“开始”，显示数据"
             android:textColor="@android:color/white" />
     </LinearLayout>
     <LinearLayout
@@ -106,5 +106,13 @@
             android:layout_weight="1" />
     </LinearLayout>
 
+    <TextView
+        android:id="@+id/remindLab"
+        android:layout_marginTop="15dp"
+        android:textSize="15sp"
+        android:textColor="@android:color/holo_red_dark"
+        android:text="提示："
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
